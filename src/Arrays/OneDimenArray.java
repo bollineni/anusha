@@ -1,5 +1,5 @@
 package Arrays;
-
+//this particular example deals with 2d and 1d.
 public class OneDimenArray { // ctrl+shift+f is formate
 
 	public static void main(String[] args) {
